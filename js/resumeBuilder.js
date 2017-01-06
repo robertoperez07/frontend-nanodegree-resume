@@ -1,6 +1,6 @@
-/*
-This is empty on purpose! Your code to build the resume will go here.
- */
+/* Author: Roberto Perez-Soriano
+ Date of completion: January 2017
+*/
 var bio = {
     "name": "Roberto Perez-Soriano",
     "role": "Software Developer ",
