@@ -71,40 +71,38 @@ This is empty on purpose! Your code to build the resume will go here.
 // $("#main").append(education["name"]);
 
 //schools, cities, majors, minors, graduation years, online courses
-var education = {
-    "schools": [
-        {
-            "name": "San Diego State University",
-            "city": "San Diego, CA",
-            "majors": "Computer Science",
-            "minors": "n/a",
-            "gradYear": 2017
-        },
-        {
-            "name": "Chula Vista High School",
-            "city": "Chula Vista, CA",
-            "majors": "n/a",
-            "minors": "n/a",
-            "gradYear": 2013
-        }
-    ],
-    "onlineCourses": [
-    {
-        "title": "Developing Android Apps",
-        "school": "Udacity",
-        "dates": 2016
-    },
-    {
-        "title": "HTML & CSS Basics",
-        "school": "Udacity",
-        "dates": 2016
-    },
-    {
-        "title": "Javascript Basics",
-        "school": "Udacity",
-        "dates": 2016
-    }
-    ]
-};
-
-
+// var education = {
+//     "schools": [
+//         {
+//             "name": "San Diego State University",
+//             "city": "San Diego, CA",
+//             "majors": "Computer Science",
+//             "minors": "n/a",
+//             "gradYear": 2017
+//         },
+//         {
+//             "name": "Chula Vista High School",
+//             "city": "Chula Vista, CA",
+//             "majors": "n/a",
+//             "minors": "n/a",
+//             "gradYear": 2013
+//         }
+//     ],
+//     "onlineCourses": [
+//     {
+//         "title": "Developing Android Apps",
+//         "school": "Udacity",
+//         "dates": 2016
+//     },
+//     {
+//         "title": "HTML & CSS Basics",
+//         "school": "Udacity",
+//         "dates": 2016
+//     },
+//     {
+//         "title": "Javascript Basics",
+//         "school": "Udacity",
+//         "dates": 2016
+//     }
+//     ]
+// };
